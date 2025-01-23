@@ -1,6 +1,5 @@
 ## Hi there 👋
-My Name is Ethan Spurgeon
-My Major is Information Technology and Cybersecurity
+My Name is Ethan Spurgeon and my Major is Information Technology and Cybersecurity
 
 
 <!--
