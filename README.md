@@ -1,5 +1,11 @@
 ## Hi there 👋
-My Name is Ethan Spurgeon and my major is Information Technology and Cybersecurity. The projects I plan to do are learn to make a portfolio HTML page and setup Ubuntu server OS.
+My Name is Ethan Spurgeon
+
+My major is Information Technology and Cybersecurity 
+
+The projects I plan to do are: 
+    1. Learn to make a portfolio HTML page
+    2. Setup Ubuntu server OS
 
 
 <!--
