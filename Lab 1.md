@@ -41,9 +41,7 @@ My Command Line Shell is: Powershell
 4. Go into `Dir B` from `DirA`: cd "../Dir B"
 5. Return to your user's home directory: cd ~
 6. Create a file named `test.txt`: New-Item test.txt
-7. Move the file named `test.txt` into `DirA`: Move-Item "C:\Users\takeflight\test.txt" "C:\Users\takeflight\downloads\College Classes\Sophmore\2nd Semester\Operating System Concepts and Usage\Lab 1\Testing part 3\DirA\"
-
-
+7. Move the file named `test.txt` into `DirA`: Move-Item test.txt DirA/
 8. Contents of `test.txt`:
 ```
 You'll do great things if you believe in yourself!
